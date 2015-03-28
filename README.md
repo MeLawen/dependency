@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Robot Programming Mobile Robot Classes
 
 Some classes useful for robot sensing, map abstraction and localisation in leJOS which you can use in Exercise 4. 
@@ -34,3 +35,6 @@ The following classes demonstrate the uses of the code from this repositoru:
 ## Fixing bugs
 
 If you find any bugs in my code, please open an [issue](https://github.com/hawesie/rp14-exercise4/issues) or create a pull request with the fix.
+=======
+# dependency
+>>>>>>> e20a7715dcf48199deaeb32848057d6f73e264d0
